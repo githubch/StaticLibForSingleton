@@ -6,7 +6,7 @@
 extern "C"
 {
 #endif
-int shlibfirst_function(void)
+int shlibsecond_function(void)
 {
 	std::cout <<__FUNCTION__<<":"<<std::endl;
 	Singleton& singleton = Singleton::GetInstance();

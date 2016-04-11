@@ -1,9 +1,10 @@
 #pragma
 #ifdef __cplusplus
 extern "C"
+{
 #endif
-int shlibfirst_function(void);
+int shlibsecond_function(void);
 
-#ifdef _cplusplus
+#ifdef __cplusplus
 }
 #endif

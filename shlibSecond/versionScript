@@ -1,6 +1,6 @@
 {
 	global:
-		shlibfirst_function;
+		shlibsecond_function;
 	local:
 		*;
 };
