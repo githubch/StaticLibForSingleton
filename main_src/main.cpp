@@ -1,7 +1,7 @@
 #include<iostream>
 #include "shlibfirstexports.h"
 #include "shlibsecondexports.h"
-#include "singleton.h"
+#include "staticlibsingleton.h"
 
 using namespace std;
 
