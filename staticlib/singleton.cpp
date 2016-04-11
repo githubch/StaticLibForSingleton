@@ -1,5 +1,5 @@
 #include<iostream>
-#include "staticlibsingleton.h"
+#include "singleton.h"
 
 Singleton* Singleton::m_pInstance = NULL;
 Singleton& Singleton::GetInstance(void)
